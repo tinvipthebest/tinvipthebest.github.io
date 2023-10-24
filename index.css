@@ -1,0 +1,28 @@
+.sta,.game,.con,.endr{
+    border-radius: 20px; /* Set your desired border-radius */
+    background-color: #ffffff; /* Set your desired background color */
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3); /* Set your desired shadow properties */
+}
+p{
+    font-size: 1em; /* Set the initial font size */
+    text-align: center; /* Optional: Center the text */
+    margin: 0; /* Optional: Remove margin */
+    padding: 10px; /* Optional: Add padding */
+}
+bold{
+    font-weight:bold
+}
+.skinkin{
+    width: 150px;
+    height: 100px;
+}
+.all{
+    width: 25px; /* Set your desired width for the image */
+    height: 25px; /* Set your desired height for the image */
+    margin-right: 10px; 
+}
+body{
+    background: linear-gradient(to bottom, #add8e6, #f0f8ff, #add8e6);
+    height: 100vh; /* Set the height of the background to fill the entire viewport */
+    margin: 0; /* Remove margin for the body element */
+}
